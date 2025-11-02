@@ -36,7 +36,7 @@ To make forecasting transparent and decentralized by allowing users to earn rewa
 
 ## 🌐 Join the Community
 Follow our journey and updates:
-- Twitter: [@PredixionOfficial]
+- Twitter: [@PredixionGlobal]
 
 ---
 
