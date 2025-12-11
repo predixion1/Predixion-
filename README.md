@@ -6,7 +6,7 @@ Predixion is a starter decentralized prediction market built with Solidity, Hard
 
 ## Features
 - Create prediction markets
-- Place bets using ETH (or an ERC20 token)
+- Place bets using BNB
 - Resolve markets and distribute payouts
 - React + Tailwind frontend
 
