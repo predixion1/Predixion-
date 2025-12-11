@@ -581,25 +581,3 @@ export async function switchToBSC(){
 
 Then call connectWallet() from your UI and switchToBSC() to prompt the user.
 
-
----
-
-GitHub README badges (example)
-
-Add these snippets to README header:
-
-![BSC](https://img.shields.io/badge/chain-BSC-yellow)
-
-![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
-
-
----
-
-Additional Recommendations
-
-Add environment variable checks in deployment scripts to avoid accidental deploys to mainnet.
-
-Add .github/workflows/ci.yml to run npx hardhat test on PRs.
-
-Use Chainlink or a decentralized oracle to resolve markets in production.
-
